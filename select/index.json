@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Never Give Up",
+  "base_artist": "9Lana",
+  "createdAt": "2026-02-24T10:35:45.864830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Give up on Your Dreams",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/01_Never_Give_up_on_Your_Dreams_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Give Up On A Good Thing",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/02_Never_Give_Up_On_A_Good_Thing_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/03_Never_Give_Up_Rage.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "New Found Glory",
+      "has_synced": false,
+      "path": "select/04_Never_Give_Up_New_Found_Glory.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "Melissa Ferrick",
+      "has_synced": false,
+      "path": "select/05_Never_Give_Up_Melissa_Ferrick.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "Melissa Ferrick (feat. Tegan Quin)",
+      "has_synced": false,
+      "path": "select/06_Never_Give_Up_Melissa_Ferrick_(feat._Tegan_Quin).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Give Up On The Good Times",
+      "artist": "Spice Girls",
+      "has_synced": false,
+      "path": "select/07_Never_Give_Up_On_The_Good_Times_Spice_Girls.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Give Up on the Good Times",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/08_Never_Give_Up_on_the_Good_Times_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Give Up (feat. Josh X)",
+      "artist": "Cardi B feat. Josh X",
+      "has_synced": true,
+      "path": "select/09_Never_Give_Up_(feat._Josh_X)_Cardi_B_feat._Josh_X.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "Cardi B",
+      "has_synced": true,
+      "path": "select/10_Never_Give_Up_Cardi_B.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Give Up On A Dream",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/11_Never_Give_Up_On_A_Dream_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Give Up On A Dream",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/12_Never_Give_Up_On_A_Dream_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "Sammy Hagar",
+      "has_synced": false,
+      "path": "select/13_Never_Give_Up_Sammy_Hagar.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "Neffex",
+      "has_synced": true,
+      "path": "select/14_Never_Give_Up_Neffex.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "King Henry",
+      "has_synced": true,
+      "path": "select/15_Never_Give_Up_King_Henry.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never Give Up",
+      "artist": "Steve Hartz",
+      "has_synced": true,
+      "path": "select/16_Never_Give_Up_Steve_Hartz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Give Up",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Give_Up_9Lana.txt"
+    }
+  ]
+}
